@@ -1,4 +1,4 @@
-# unitTestingChaiNodejs
+# unitTestingWithChaiNodejs
 
 Steps to Execute
 1. npm install
